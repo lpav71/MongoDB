@@ -1,0 +1,5 @@
+БД - bd
+Коллекция - locality
+Коллекцию необходимо проиндексировать по полю driver.
+Ввести это в консоли MongoDB Compass:
+bd.locality.createIndex({"driver" : 1}, {"unique" : true})
