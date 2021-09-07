@@ -9,7 +9,7 @@
             <div class="mb-3">
                 <label for="InputDriver" class="form-label">Фамилия водителя</label>
                 <input type="text" class="form-control" name="driver" id="InputDriver">
-                <div id="InputDriverHelp" class="form-text">Введите фамилию автомобиля.</div>
+                <div id="InputDriverHelp" class="form-text">Введите фамилию водителя.</div>
             </div>
             <button type="submit" class="btn btn-primary">Добавить</button>
         </form>
